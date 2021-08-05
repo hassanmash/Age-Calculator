@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="dateHint">Enter Date to calculate</string>
+    <string name="calc">CALCULATE</string>
+    <string name="clear">CLEAR</string>
+</resources>
